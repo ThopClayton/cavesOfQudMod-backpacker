@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<populations>
+  <population Name="StartingGear_Backpacker">
+    <group Name="Items" Style="pickeach">
+      <table Name="StartingGear_Common" />
+      <object Blueprint="HalfFullCanteen" Number="1" />  
+      <object Blueprint="thop_backpack" Number="1" />
+      <object Blueprint="Desert Rifle" Number="1" />
+      <object Blueprint="Lead Slug" Number="150-250" />
+      <!--<object Blueprint="Salthopper Chip" Number="4-5" />
+      <object Blueprint="Desert Kris" Number="1" />
+      <object Blueprint="Goggles" Number="1" />
+      <object Blueprint="Witchwood Bark" Number="3-4" />-->
+    </group>
+  </population>
+
+</populations>

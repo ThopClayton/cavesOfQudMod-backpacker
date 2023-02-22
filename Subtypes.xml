@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<subtypes>
+  <class ID="Callings" Load="merge">
+
+    <subtype Name="Backpacker" Gear="StartingGear_Backpacker" Tile="creatures/Backpacker.png" DetailColor="o">
+      <stat Name="Strength" Bonus="2" />
+      <skills>
+        <skill Name="Tinkering" />
+        <skill Name="Tinkering_Repair" />
+        <skill Name="Tinkering_Disassemble" />
+        <skill Name="Tinkering_Scavenger" />
+        <skill Name="Tinkering_Tinker1" />
+      </skills>
+      <extrainfo>You're here to haul scrap out of the Caves of Qud.</extrainfo>
+      <extrainfo>You better get to work, cause you've got no scrap and only about 200 bullets.</extrainfo>
+      <extrainfo>You start out with a backpack and a rifle, as any good backpacker should have.</extrainfo>
+    </subtype>
+
+  </class>
+</subtypes>
