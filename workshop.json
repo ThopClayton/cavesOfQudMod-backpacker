@@ -2,7 +2,7 @@
   "WorkshopId": 3068940271,
   "Title": "A Backpacker",
   "Description": "He comes with a huge backpack for hauling around all the garbage he finds in the Caves of Qud. He also brought a gun, as does any wise backpacker who ventures off the beaten path.\n\nThis is largely inspired by my grandfather, who has always loved backpacking and the color orange.",
-  "Tags": "",
-  "Visibility": "1",
+  "Tags": "Subtype",
+  "Visibility": "2",
   "ImagePath": "preview.png"
 }
